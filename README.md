@@ -126,17 +126,3 @@ This project utilizes the **Ryu SDN framework** to implement network functionali
    ```bash
    sudo python3 vlan.py
    ```
-
-## Expected Outcomes
-
-By completing these exercises, you will gain a deeper understanding of:
-
-- How **Software-Defined Networking (SDN)** enables dynamic network control.
-- Implementing **custom ARP handling** and security features within OpenFlow.
-- Creating **static routing solutions** using an SDN controller.
-- Configuring **VLAN-based network segmentation** using OpenFlow rules.
-- Developing **multi-router network topologies** and handling inter-router packet forwarding.
-
----
-
-This project is an excellent opportunity to explore **real-world SDN applications** while improving your networking and programming skills. If you have any suggestions or contributions, feel free to submit a pull request!
